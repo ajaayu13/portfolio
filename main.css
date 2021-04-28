@@ -1,0 +1,59 @@
+body
+{
+	margin: 10px;
+	background-color: black;
+	color: #ffffffc2
+}
+.welcome {
+	
+	color: #ffffffc2;
+	font-size: 40px;
+	margin: 15px;
+	text-align: center;
+}
+.pic {
+	
+	width: 100%;
+	max-width: 500px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+#abt
+{
+	color: #ffffffc2;
+	margin: 5px;
+	font-size: 30px;
+}
+
+.mr-5 {
+	cursor: pointer;
+	width: 250px;
+	height: 40px;
+	padding: 10px 20px;
+	background-color: pink;
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	display: inline-block;
+	border-radius: 8px;
+	margin-bottom: 10px;
+	position: relative;
+	width: 100%;
+	height: auto;
+
+
+h3
+{
+	color: #ffffffc2;
+	font-weight: normal;
+	margin: 5px;
+}
+
+.fa {
+	color: #ffffffc2;
+	
+}
+
